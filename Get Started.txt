@@ -1,0 +1,5 @@
+"hello,world"
+"lets get started with Shell Scripting"
+"Lets try to run several commands usng Terminal"
+"Begginer Guide to linux os"
+
